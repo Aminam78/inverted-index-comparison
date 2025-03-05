@@ -1,6 +1,3 @@
-Here’s the text for your `README.md` file with instructions to run the project:
-
-```markdown
 # Inverted Index Comparison
 
 This project implements an inverted index using Python, comparing search performance between a hashtable (dictionary) and a sorted linked list. It’s designed for an "Advanced Information Retrieval" course exercise, generating random documents and measuring search efficiency.
