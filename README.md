@@ -11,7 +11,7 @@ This project implements an inverted index using Python, comparing search perform
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/inverted-index-comparison.git
+git clone https://github.com/Aminam78/inverted-index-comparison.git
 cd inverted-index-comparison
 ```
 

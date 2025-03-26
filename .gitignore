@@ -1,0 +1,40 @@
+# محیط مجازی (Virtual Environment)
+venv/
+env/
+.virtualenv/
+*.venv/
+
+# فایل‌های موقت پایتون
+__pycache__/
+*.py[cod]
+*$py.class
+
+# فایل‌های تولیدشده توسط IDE یا ویرایشگر
+.idea/
+.vscode/
+*.sublime-project
+
+# فایل‌های موقت سیستم‌عامل
+.DS_Store
+Thumbs.db
+
+# فایل‌های تولیدشده یا خروجی‌های موقت
+*.log
+*.csv
+*.json
+*.pkl
+
+# فایل‌های محیط توسعه
+*.swp
+*.bak
+
+# پوشه‌های داده یا خروجی
+data/
+output/
+results/
+
+# فایل‌های محیط مجازی و نصب
+pip-wheel-metadata/
+dist/
+build/
+*.egg-info/
